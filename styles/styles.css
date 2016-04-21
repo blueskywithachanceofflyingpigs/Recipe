@@ -1,0 +1,30 @@
+div {
+	border-radius: 25px;
+	display: inline-block;
+
+}
+
+h2:hover {-webkit-animation: cssAnimation 1s 16 ease;
+-moz-animation: cssAnimation 1s 16 ease;
+-o-animation: cssAnimation 1s 16 ease;}
+
+span {
+	font-color: #333;
+
+}
+
+.marked {
+	background-color: #00FF00;
+}
+
+.span_1 {
+	background-color: #FA5858;
+}
+
+.span_2 {
+	background-color: #58FA58;
+}
+
+ol .ui-selected {
+	background: #F39814; color: white;
+}
